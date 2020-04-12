@@ -28,8 +28,8 @@ font-family:"calbri";
 <div class="vert">
 <h1><b>.UTILITIES.</b></h1>
 
-  <a href="shaivyesingh/zodiac.html">Know your zodiac</a>
-  <a href="shaivyesingh/bmi.html">Calculate your BMI</a>
+  <a href="zodiac.html">Know your zodiac</a>
+  <a href="bmi.html">Calculate your BMI</a>
 </div>
 
 
