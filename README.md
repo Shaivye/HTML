@@ -65,8 +65,8 @@ text-decoration:none;
 
 
 <div class="navbar">
-  <a href="shaivyesingh/movies.html">Movies</a> 
-  <a href="shaivyesingh/fp.html">Favourite personalities</a> 
+  <a href="movies.html">Movies</a> 
+  <a href="fp.html">Favourite personalities</a> 
 
 </div>
 
@@ -113,7 +113,7 @@ body {
 <body>
 
 <div class="bnavbar">
-  <a href="shaivyesingh/contact.html">Click here to Contact</a>
+  <a href="contact.html">Click here to Contact</a>
 </div>
 
 
