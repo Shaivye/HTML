@@ -28,8 +28,8 @@ font-family:"calbri";
 <div class="vert">
 <h1><b>.UTILITIES.</b></h1>
 
-  <a href="C:\Users\SHAIVYE SINGH\Desktop\zodiac.html">Know your zodiac</a>
-  <a href="C:\Users\SHAIVYE SINGH\Desktop\bmi.html">Calculate your BMI</a>
+  <a href="zodiac.html">Know your zodiac</a>
+  <a href="bmi.html">Calculate your BMI</a>
 </div>
 
 
@@ -65,8 +65,8 @@ text-decoration:none;
 
 
 <div class="navbar">
-  <a href="C:\Users\SHAIVYE SINGH\Desktop\movies.html">Movies</a> 
-  <a href="C:\Users\SHAIVYE SINGH\Desktop\fp.html">Favourite personalities</a> 
+  <a href="movies.html">Movies</a> 
+  <a href="fp.html">Favourite personalities</a> 
 
 </div>
 
@@ -113,7 +113,7 @@ body {
 <body>
 
 <div class="bnavbar">
-  <a href="C:\Users\SHAIVYE SINGH\Desktop\contact.html">Click here to Contact</a>
+  <a href="contact.html">Click here to Contact</a>
 </div>
 
 
