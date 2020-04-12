@@ -118,11 +118,11 @@ body {
 
 
 
-<img src="shaivyesingh/nature.jpeg"/>
-<img src="shaivyesingh/pretty.jpeg" />
-<img src="shaivyesingh/street.jpeg" />
-<img src="shaivyesingh/paris.jpeg" />
-<img src="shaivyesingh/blue.jpeg" />
+<img src="nature.jpeg"/>
+<img src="pretty.jpeg" />
+<img src="street.jpeg" />
+<img src="paris.jpeg" />
+<img src="blue.jpeg" />
 
 
 
